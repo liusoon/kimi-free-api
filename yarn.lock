@@ -509,10 +509,10 @@ crc-32@^1.2.2:
   resolved "https://registry.npmmirror.com/crc-32/-/crc-32-1.2.2.tgz#3cad35a934b8bf71f25ca524b6da51fb7eace2ff"
   integrity sha512-ROmzCKrTnOwybPcJApAA6WBWij23HVfGVNKqqrZpuyZOHqK2CwHSvpGuyt/UNNvaIjEd8X5IFGp4Mh+Ie1IHJQ==
 
-cron@^3.1.6:
-  version "3.3.1"
-  resolved "https://registry.npmmirror.com/cron/-/cron-3.3.1.tgz#03c56b4a3ad52606160adfba1fab932c53838807"
-  integrity sha512-KpvuzJEbeTMTfLsXhUuDfsFYr8s5roUlLKb4fa68GszWrA4783C7q6m9yj4vyc6neyD/V9e0YiADSX2c+yRDXg==
+cron@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/cron/-/cron-3.5.0.tgz#e8caa384e998ed275e19598df4dbd0e8578c35d9"
+  integrity sha512-0eYZqCnapmxYcV06uktql93wNWdlTmmBFP2iYz+JPVcQqlyFYcn1lFuIk4R54pkOmE7mcldTAPZv6X5XA4Q46A==
   dependencies:
     "@types/luxon" "~3.4.0"
     luxon "~3.5.0"
